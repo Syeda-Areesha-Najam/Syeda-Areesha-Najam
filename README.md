@@ -25,13 +25,15 @@ Hello, my name is Syeda Areesha Najam, and I recently graduated from [Habib Univ
       - 🧐 **What's it all about?** Nutrify isn't your ordinary diet app; it's a personalized food guru! We crafted a treasure trove of 4600 authentic South Asian recipes, and then used that data to create a _**smart recommendation engine**_. Nutrify caters to your food preferences and health goals, making a balanced diet as easy as pie (or salad). 🥗
       - 🛠️ **Skills I Put to Use:** Python, Django, Deep Learning, Project Management, Machine Learning, Data Science
       - 🏆 **Achievements:**
-        - Our abstract has been approved by the prestigious SNEB [(Society for Nutrition Education and Behavior)](https://www.linkedin.com/company/society-for-nutrition-education-and-behavior/) conference, reaffirming the value and impact of our research in the field of        nutrition education.
-        - Our research poster, "Crafting a Healthier Desi Diet: Personalized And Balanced Recipe Recommendations through a Hybrid Recommendation System," won 2nd prize at the Dhanani School       of Science & Engineering Undergraduate Research Symposium [(DURS2023)](https://habib.edu.pk/undergraduate-research-symposium/).
+        - Research abstract approved by the prestigious SNEB [(Society for Nutrition Education and Behavior)](https://www.linkedin.com/company/society-for-nutrition-education-and-behavior/) conference, reaffirming the value and impact of our research in the field oF nutrition education.
+        - Research poster, "Crafting a Healthier Desi Diet: Personalized And Balanced Recipe Recommendations through a Hybrid Recommendation System," won 2nd prize at the Dhanani School       of Science & Engineering Undergraduate Research Symposium [(DURS2023)](https://habib.edu.pk/undergraduate-research-symposium/).
       - [Dive into Nutrify](https://github.com/Sehatmand-Duniya)
     
   - **Drowsiness Detection System** - A Lifesaver on the Road 🚗 (Deep Learning)
     - 😴 **Tackling a critical issue** - drowsy driving! We dove into the realm of artificial intelligence and deep learning to make roads safer. Our journey involved exploring machine             learning techniques to predict a driver's mental state. We looked at everything from facial expressions to bio-indicators. And we weren't afraid to challenge boundaries. Our research included investigating data augmentation and the magic of transfer learning in **_Convolutional Neural Networks (CNNs)_**. 🧠
     - 🛠️ **Skills that Powered Our Journey:** Python, Data Modeling, Data Analysis, Graphics Processing Unit, Deep Learning
+    - 🏆 **Achievements:**
+        - Research Paper accepted by IJSER [(International Journal of Scientific Engineering and Research)](https://www.ijser.in/?gclid=CjwKCAjwkNOpBhBEEiwAb3MvvW2CMT5WQOjhiYWhuaFGqX_JlXKftvrPbX_RrkJ4_y_wji8MLk6hAxoCfP8QAvD_BwE).
     - [Discover Drowsiness Detection](https://github.com/Syeda-Areesha-Najam/Drowsiness_Detection_System_Deep_Learning)
       
 - 💬 **Brainstorm** with me over tech, AI, Machine Learning, Data Science, and life.
