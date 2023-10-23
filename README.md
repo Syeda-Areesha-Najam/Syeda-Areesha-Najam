@@ -34,7 +34,7 @@ Hello, my name is Syeda Areesha Najam, and I recently graduated from [Habib Univ
     
   - **Drowsiness Detection System** - A Lifesaver on the Road 🚗 (Deep Learning)
     - 😴 **Tackling a critical issue** - drowsy driving! We dove into the realm of artificial intelligence and deep learning to make roads safer. This project explored machine learning techniques to predict a driver's mental state, while looking at everything from facial expressions to bio-indicators. This research also included investigating data augmentation and the magic of transfer learning in **_Convolutional Neural Networks (CNNs)_**. 🧠
-    - 🛠️ **Skills that Powered Our Journey:** Python, Data Modeling, Data Analysis, Graphics Processing Unit, Deep Learning
+    - 🛠️ **Skills I Put to Use:** Python, Data Modeling, Data Analysis, Graphics Processing Unit, Deep Learning
     - 🏆 **Achievements:**
         - Research Paper accepted by IJSER [(International Journal of Scientific Engineering and Research)](https://www.ijser.in/?gclid=CjwKCAjwkNOpBhBEEiwAb3MvvW2CMT5WQOjhiYWhuaFGqX_JlXKftvrPbX_RrkJ4_y_wji8MLk6hAxoCfP8QAvD_BwE).
     - [Discover Drowsiness Detection](https://github.com/Syeda-Areesha-Najam/Drowsiness_Detection_System_Deep_Learning)
