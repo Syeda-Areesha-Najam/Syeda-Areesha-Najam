@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 👩🏻‍💻 I am currently interning at Empathic Computing Lab to predict cognitive load from EEG data and galvanic sensor data.
 -->
 <img src="https://github.com/lauragift21/lauragift21/blob/master/code.gif?raw=true" alt= “” width="500" height="300">
-Hello, my name is Syeda Areesha Najam, and I recently graduated from [Habib University]([https://www.spursol.com/](https://habib.edu.pk/)) with a Bachelor's degree in Computer Science.
+Hello, my name is Syeda Areesha Najam, and I recently graduated from [Habib University](https://habib.edu.pk/) with a Bachelor's degree in Computer Science.
 
 - 🌿 I work full-time as a Software Engineer at [Spursol](https://www.spursol.com/), a company whose mission is to improve people's lives through simple, elegant, and innovative solutions.
   
