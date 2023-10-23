@@ -24,7 +24,7 @@ Hello, my name is Syeda Areesha Najam, and I recently graduated from [Habib Univ
 - 🌿 I work full-time as a Software Engineer at [Spursol](https://www.spursol.com/), a company whose mission is to improve people's lives through simple, elegant, and innovative solutions.
   
 - 🌟 While I've undertaken numerous research endeavors, here are a couple of captivating highlights from my undergrad journey:
-  - **Nutrify** - Your Personal Diet Wizard 🍏 (Final Year Project)
+  - **Nutrify** - Your Personal Virtual Nutrionist 🍏 (Final Year Project)
       - 🧐 **What's it all about?** Nutrify isn't your ordinary diet app; it's a personalized food guru! We crafted 4600 authentic South Asian recipes, and then used that data to create a _**smart recommendation engine**_. Nutrify caters to your food preferences and health goals, making a balanced diet as easy as pie (or salad). 🥗
       - 🛠️ **Skills I Put to Use:** Python, Django, Deep Learning, Project Management, Machine Learning, Data Science
       - 🏆 **Achievements:**
