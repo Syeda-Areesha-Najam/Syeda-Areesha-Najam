@@ -18,10 +18,8 @@ Here are some ideas to get you started:
 -->
 
 Hello, my name is Syeda Areesha Najam, and I recently graduated from [Habib University](https://habib.edu.pk/) with a Bachelor's degree in Computer Science.
-\
-\
-<img src="https://github.com/lauragift21/lauragift21/blob/master/code.gif?raw=true" alt= “” align="right" width="400" height="300">
 
+<img src="https://github.com/lauragift21/lauragift21/blob/master/code.gif?raw=true" alt= “” width="400" height="300">
 
 - 🌿 I work full-time as a Software Engineer at [Spursol](https://www.spursol.com/), a company whose mission is to improve people's lives through simple, elegant, and innovative solutions.
   
