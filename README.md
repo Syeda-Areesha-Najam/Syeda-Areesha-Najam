@@ -16,8 +16,12 @@ Here are some ideas to get you started:
 - ✵ I was a summer research student at Wolfram Summer School 2023, working on 3D Human Pose Estimation.
 - 👩🏻‍💻 I am currently interning at Empathic Computing Lab to predict cognitive load from EEG data and galvanic sensor data.
 -->
-<img src="https://github.com/lauragift21/lauragift21/blob/master/code.gif?raw=true" alt= “” width="500" height="300">
+
 Hello, my name is Syeda Areesha Najam, and I recently graduated from [Habib University](https://habib.edu.pk/) with a Bachelor's degree in Computer Science.
+\
+\
+<img src="https://github.com/lauragift21/lauragift21/blob/master/code.gif?raw=true" alt= “” align="right" width="400" height="300">
+
 
 - 🌿 I work full-time as a Software Engineer at [Spursol](https://www.spursol.com/), a company whose mission is to improve people's lives through simple, elegant, and innovative solutions.
   
